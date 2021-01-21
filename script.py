@@ -1,7 +1,7 @@
 class script(object):
     START_TEXT = """ A Simple File Renamer Bot With Permanent Thumbnail support!💯
 
-<b>Send me any Telegram file and choose appropriate option!\n\nClick /help for more details....\n\You must subscribe our channel in order to use me😇</b>"""
+<b>Send me any Telegram file and choose appropriate option!\n\nClick /help for more details....\n\You must subscribe our channel in order to use me😇 \n\n Channel:@VKPROJECTS</b>"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     UPGRADE_TEXT = "ContacT @VKGROUPS_ADMIN"
